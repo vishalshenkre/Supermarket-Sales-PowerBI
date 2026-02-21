@@ -22,3 +22,4 @@ product line performance, and customer behavior.
 - Product line contribution evaluated
 
 ## Dashboard Preview
+![DASHBOARD](Dashboard.png)
