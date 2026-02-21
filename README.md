@@ -46,4 +46,4 @@ stakeholders make data-driven decisions.
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
